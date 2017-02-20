@@ -4,6 +4,6 @@ public class SomeProgram2 {
         System.out.println("We will be Git experts, soon.");
     }
     public void manageTheSatellite() {
-    // TODO implement
+        System.out.println("Moje satelity");
 }
 }
