@@ -6,4 +6,8 @@ public class SomeProgram2 {
     public void rocket(){
         System.out.println("Moje rakiety");
     }
+
+    public void manageTheSatellite() {
+        System.out.println("Moje satelity");
+    }
 }
